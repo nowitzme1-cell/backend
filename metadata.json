@@ -1,0 +1,5 @@
+{
+  "name": "QuantumTrade Backend API",
+  "description": "A simulated Node.js backend API for trading strategy processing, featuring automated n8n webhook simulations and persistent history tracking.",
+  "requestFramePermissions": []
+}
